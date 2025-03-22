@@ -54,10 +54,6 @@ This dashboard is built using Spotify streaming data, including track metadata a
 - **DAX (Data Analysis Expressions)**: For creating calculated measures and custom aggregations.
 - **Spotify Data**: Data source for music metrics and insights.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
@@ -68,7 +64,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
 
-## 📧 Contact
-
-For any inquiries, feel free to reach out via [your email] or open an issue in the repository.
 
