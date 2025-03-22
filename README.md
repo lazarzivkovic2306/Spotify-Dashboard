@@ -34,7 +34,7 @@ The Spotify Power BI Dashboard is designed to deliver a comprehensive analysis o
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spotify-powerbi-dashboard.git
+    git clone https://github.com/lazarzivkovic2306/spotify-powerbi-dashboard.git
     cd spotify-powerbi-dashboard
     ```
 
